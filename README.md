@@ -1,7 +1,10 @@
 ### Hi there 👋
 <div id="header" align="center">
 
-<img src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUwNDMyNjIsIm5iZiI6MTcwNTA0Mjk2MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTEyVDA3MDI0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI2MzA4NjA3OTJkN2Q4ZDA1MWFhOTI0OGRjMzU0OTg2MGE5ZDQ3MGFhNzczNGQwOGIxOWFlNzRiYWQ0NTNmYzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2_DqTZwB_MzFZaQKw7PG4YCoDfACOPF4Nq6lozE84Dw">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" />
+</div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
